@@ -1,0 +1,1 @@
+# 7POWERZ-Aplikasi-Penerjemah-Bahasa
