@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#003366"
+    android:padding="16dp">
+
+    <!-- Teks Selamat Datang -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Selamat Datang di 7Powerz\nAplikasi penerjemah handal yang bisa membantu produktivitas kamu"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="30dp"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="center"
+        android:textAlignment="center" />
+
+    <!-- Logo -->
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="250dp"
+        android:layout_height="250dp"
+        android:src="@drawable/logoawalpowerz"
+        android:layout_marginBottom="30dp"
+        android:contentDescription="Logo 7Powerz"
+        android:layout_gravity="center"/>
+
+    <!-- Tombol Mulai -->
+    <Button
+        android:id="@+id/btnMulai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Mulai"
+        android:textColor="#FFFFFF"
+        android:backgroundTint="#5D00B5"
+        android:padding="12dp"
+        android:textSize="18sp"
+        android:layout_marginBottom="20dp"/>
+
+</LinearLayout>

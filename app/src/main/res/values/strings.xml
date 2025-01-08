@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">7Powerz</string>
+
+    <string name="select_source_language">Select source language</string>
+    <string name="select_target_language">Select target language</string>
+    <string name="welcome_yusep">Welcome, Yusep</string>
+
+    <string-array name="source_languages">
+        <item>Arabic</item>
+        <item>Chinese (Simplified)</item>
+        <item>English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Hindi</item>
+        <item>Indonesia</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Malay</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>Swedish</item>
+        <item>Turkish</item>
+        <item>Vietnamese</item>
+        <item>Dutch</item>
+        <item>Greek</item>
+        <item>Hebrew</item>
+        <item>Polish</item>
+    </string-array>
+
+    <string-array name="target_languages">
+        <item>Arabic</item>
+        <item>Chinese (Simplified)</item>
+        <item>English</item>
+        <item>French</item>
+        <item>German</item>
+        <item>Hindi</item>
+        <item>Indonesia</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Malay</item>
+        <item>Portuguese</item>
+        <item>Russian</item>
+        <item>Spanish</item>
+        <item>Swedish</item>
+        <item>Turkish</item>
+        <item>Vietnamese</item>
+        <item>Dutch</item>
+        <item>Greek</item>
+        <item>Hebrew</item>
+        <item>Polish</item>
+    </string-array>
+
+    <!-- API Google Maps -->
+    <string name="google_maps_key">AIzaSyB-z9fwBZUQ4UDp4QnwWiyhxKJtZGznsyc</string>
+</resources>
